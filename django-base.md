@@ -421,6 +421,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 ...
 ```
 ```python
+ДОБАВИТЬ ИМПОРТ
 # project_name/urls.py
 urlpatterns = [
     ...,
